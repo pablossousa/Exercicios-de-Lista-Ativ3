@@ -10,8 +10,7 @@ A, G, C. Feito isso, leia de um arquivo uma sequência de nucleotídios (i.e., A
 
 A resolução deste problema consiste em:
 <li>Ler dois arquivos com formato ".txt", ambos arquivos terão uma cadeia de códons, porém no primeiro documento possuirá uma cadeia maior do que no segundo. Os dois serão agrupados na lista em grupos de 3;</li>
-<li></li>
-<li></li>
+<li>Após abrir, ler e vericar se as listas estão vazias, um método chamado "Compara" é chamado para verificar se na lista 2 que armazena a segunda entrada possui cadeias em comum com a entrada 1;</li>
 <li></li>
 
 <h2>Compilação e Execução</h2>
