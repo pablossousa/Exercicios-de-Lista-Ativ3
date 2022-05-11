@@ -17,6 +17,7 @@ Arquivo da entrada 2:
 <img src="Screenshot_3.png">
 <li>Após abrir, ler e vericar se as listas estão vazias, um método chamado "Compara" é chamado para verificar se na lista 2 que armazena a segunda entrada possui cadeias em comum com a entrada 1;</li>
 <li>A saída do programa é o resultado da busca mostrando as cadeias que cada lista tem em comum.</li>
+<img src="Screenshot_4.png">
 
 <h2>Compilação e Execução</h2>
 
