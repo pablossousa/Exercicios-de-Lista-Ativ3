@@ -9,7 +9,7 @@ A, G, C. Feito isso, leia de um arquivo uma sequência de nucleotídios (i.e., A
 <h2>Resolução</h2>
 
 A resolução deste problema consiste em:
-<li></li>
+<li>Ler dois arquivos com formato ".txt", ambos arquivos terão uma cadeia de códons, porém no primeiro documento possuirá uma cadeia maior do que no segundo. Os dois serão agrupados na lista em grupos de 3;</li>
 <li></li>
 <li></li>
 <li></li>
