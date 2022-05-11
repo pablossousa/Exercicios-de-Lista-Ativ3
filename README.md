@@ -10,9 +10,11 @@ A, G, C. Feito isso, leia de um arquivo uma sequência de nucleotídios (i.e., A
 
 A resolução deste problema consiste em:
 <li>Ler dois arquivos com formato ".txt", ambos arquivos terão uma cadeia de códons, porém no primeiro documento possuirá uma cadeia maior do que no segundo. Os dois serão agrupados na lista em grupos de 3;</li>
-<img src="Screenshot_1">
-<img src="Screenshot_2">
-<img src="Screenshot_3">
+Arquivo da entrada 1:
+<img src="Screenshot_1.png">
+Arquivo da entrada 2:
+<img src="Screenshot_2.png">
+<img src="Screenshot_3.png">
 <li>Após abrir, ler e vericar se as listas estão vazias, um método chamado "Compara" é chamado para verificar se na lista 2 que armazena a segunda entrada possui cadeias em comum com a entrada 1;</li>
 <li>A saída do programa é o resultado da busca mostrando as cadeias que cada lista tem em comum.</li>
 
